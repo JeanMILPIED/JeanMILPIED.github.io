@@ -7,11 +7,14 @@ C'est gratuit sur www.github.com
 ## Etape 2: créer son repository  
 Pour faire simple, un repository est un peu comme un dossier projet.  
 Donner lui le nom de votre username suivi de .github.io  
-Comme ceci <monusername>.github.io  
+Comme ceci monusername.github.io  
+Puis assurez vous que ce repository est "Public" 
 
 ## Etape 3: charger un template de website "joli"  
 Sur html5 ou sur astrosite, vous pourrez trouver de joli templates de website libre de droits.  
-En downloadant les fichiers, dans votre repository, vous aurez la trame .  
+En downloadant les fichiers, dans votre repository, vous aurez la trame . 
+https://astrosites.github.io/  
+https://html5up.net/  
 
 ## Etape 4: intégrez vos informations dans le website  
 Pas besoin d'être un boss en html.  
@@ -20,6 +23,16 @@ Repérez les zones de texte cible et remplacez par votre texte.
 Faites ensuite "commit" des modifications.  
 
 ## Etape 5: l'activation de github.pages  
+Allez dans Settings/Pages/  
+Et deployez depuis la branch Main  
+Et Hop c'est en ligne !!!
+
+
+
+### Sources  
+https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github  
+https://towardsdatascience.com/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd  
+
 
 
  
